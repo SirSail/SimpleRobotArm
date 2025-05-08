@@ -1,14 +1,14 @@
 
 
-# 🦾 Neural Network-Based 2D Robot Arm Controller
+#  Neural Network-Based 2D Robot Arm Controller
 
-## 🧠 Description
+##  Description
 
 This project implements a 2D robotic arm simulator controlled by a custom Multi-Layer Perceptron (MLP) neural network. It predicts joint angles (α and β) based on a desired end-effector position. The system includes a GUI for interactive control, training visualization, and error heatmaps for performance analysis. It's designed to demonstrate inverse kinematics using neural networks in a clear and engaging way.
 
 ---
 
-## ⚙️ Installation Instructions
+##  Installation Instructions
 
 1. **Clone the repository**:
 
@@ -38,7 +38,7 @@ This project implements a 2D robotic arm simulator controlled by a custom Multi-
 
 ---
 
-## 🚀 Usage Instructions
+##  Usage Instructions
 
 * Once launched, adjust the **"Tip X"** and **"Tip Y"** sliders to move the robot arm's target position.
 * The neural networks will predict the required joint angles in real time.
